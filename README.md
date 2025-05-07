@@ -20,4 +20,4 @@ The study found that while using all features generally yielded slightly higher 
 
 ---
 
-** Link to Project Documentation: (https://lapis-school-f5e.notion.site/Loan-Approval-Prediction-A-Comparative-Study-1ecca101e469809d8b9feab397c40a47?pvs=4) <<**
+Link to Project Documentation: (https://lapis-school-f5e.notion.site/Loan-Approval-Prediction-A-Comparative-Study-1ecca101e469809d8b9feab397c40a47?pvs=4)
